@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "0.5.0",
-  "url": "https://github.com/AlexNASA89/foto55-releases/releases/download/foto55-v0.5.0/foto55-v0.5.0.apk",
-  "notes": "Прозрачность слоя в разделе Цвет."
+  "versionCode": 6,
+  "versionName": "0.6.0",
+  "url": "https://github.com/AlexNASA89/foto55-releases/releases/download/foto55-v0.6.0/foto55-v0.6.0.apk",
+  "notes": "Библиотека слоёв + порядок слоёв вперёд/назад."
 }
