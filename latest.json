@@ -1,0 +1,6 @@
+{
+  "versionCode": 1,
+  "versionName": "0.1.0",
+  "url": "",
+  "notes": "Пока новой версии нет. При выпуске: поднять versionCode в build.gradle, собрать release-APK, приложить в GitHub Release этого репозитория, вписать сюда versionCode/versionName/url и запушить."
+}
