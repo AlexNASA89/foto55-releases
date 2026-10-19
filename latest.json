@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "0.1.0",
-  "url": "",
-  "notes": "Пока новой версии нет. При выпуске: поднять versionCode в build.gradle, собрать release-APK, приложить в GitHub Release этого репозитория, вписать сюда versionCode/versionName/url и запушить."
+  "versionCode": 2,
+  "versionName": "0.2.0",
+  "url": "https://github.com/AlexNASA89/foto55-releases/releases/download/foto55-v0.2.0/foto55-v0.2.0.apk",
+  "notes": "Плавность кисти + автообновление из приложения."
 }
