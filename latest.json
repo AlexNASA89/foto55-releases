@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "0.12.2",
-  "url": "https://github.com/AlexNASA89/foto55-releases/releases/download/foto55-v0.12.2/foto55-v0.12.2.apk",
-  "notes": "Набор лица в приватном облаке: «Библиотека → Мой набор лица из облака», маски — прямо в ракурсы, «Синхронизировать» — в облако."
+  "versionCode": 17,
+  "versionName": "0.12.3",
+  "url": "https://github.com/AlexNASA89/foto55-releases/releases/download/foto55-v0.12.3/foto55-v0.12.3.apk",
+  "notes": "«Голова по овалу на фото» (по глазам, носу, рту) + цвет сразу. «Кожа на фото — кистью». «Овал вручную» стартует по лицу."
 }
