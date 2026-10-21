@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "0.8.0",
-  "url": "https://github.com/AlexNASA89/foto55-releases/releases/download/foto55-v0.8.0/foto55-v0.8.0.apk",
-  "notes": "Дублировать слой + овальная маска + библиотека слоёв + порядок слоёв."
+  "versionCode": 9,
+  "versionName": "0.9.0",
+  "url": "https://github.com/AlexNASA89/foto55-releases/releases/download/foto55-v0.9.0/foto55-v0.9.0.apk",
+  "notes": "Пипетка в «Цвете»: нажми на нужный тон на другом слое или фоне — слой берёт этот тон."
 }
