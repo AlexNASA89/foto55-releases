@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "0.13.4",
-  "url": "https://github.com/AlexNASA89/foto55-releases/releases/download/foto55-v0.13.4/foto55-v0.13.4.apk",
-  "notes": "Щёки больше не краснеют на тёмной коже. Цвет лица берётся с самого фото. Ручка поворота овала у верхнего края — под овалом."
+  "versionCode": 24,
+  "versionName": "0.13.5",
+  "url": "https://github.com/AlexNASA89/foto55-releases/releases/download/foto55-v0.13.5/foto55-v0.13.5.apk",
+  "notes": "«Лицо» → «Тёмная кожа»: цвет лица берёт весь контраст тёмной кожи на фото."
 }
