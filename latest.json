@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "0.9.0",
-  "url": "https://github.com/AlexNASA89/foto55-releases/releases/download/foto55-v0.9.0/foto55-v0.9.0.apk",
-  "notes": "Пипетка в «Цвете»: нажми на нужный тон на другом слое или фоне — слой берёт этот тон."
+  "versionCode": 10,
+  "versionName": "0.10.0",
+  "url": "https://github.com/AlexNASA89/foto55-releases/releases/download/foto55-v0.10.0/foto55-v0.10.0.apk",
+  "notes": "Подогнать под кожу: пипетка «Область» по коже на фото → вставка получает её яркость, контраст и оттенок кожи."
 }
