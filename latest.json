@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "0.13.3",
-  "url": "https://github.com/AlexNASA89/foto55-releases/releases/download/foto55-v0.13.3/foto55-v0.13.3.apk",
-  "notes": "«Подобрать ракурс»: в библиотеке ★ у ракурсов, что лучше встанут на голову на фото. Цвет лица без кепки — светлее, ближе к фото. Автосохранение через 3 с."
+  "versionCode": 23,
+  "versionName": "0.13.4",
+  "url": "https://github.com/AlexNASA89/foto55-releases/releases/download/foto55-v0.13.4/foto55-v0.13.4.apk",
+  "notes": "Щёки больше не краснеют на тёмной коже. Цвет лица берётся с самого фото. Ручка поворота овала у верхнего края — под овалом."
 }
