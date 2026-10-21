@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "0.12.4",
-  "url": "https://github.com/AlexNASA89/foto55-releases/releases/download/foto55-v0.12.4/foto55-v0.12.4.apk",
-  "notes": "Овал сам дообводит край лица по фото («Край по фото»). Точки лица (по глазам, носу, рту) теперь работают."
+  "versionCode": 19,
+  "versionName": "0.13.0",
+  "url": "https://github.com/AlexNASA89/foto55-releases/releases/download/foto55-v0.13.0/foto55-v0.13.0.apk",
+  "notes": "Новый вид. Глаза на тёмных фото больше не зеленеют. Правки не теряются, холст не чернеет при открытии. «Удалить набор» спрашивает. «Назад» отменяет овал."
 }
