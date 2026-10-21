@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "0.11.0",
-  "url": "https://github.com/AlexNASA89/foto55-releases/releases/download/foto55-v0.11.0/foto55-v0.11.0.apk",
-  "notes": "«Лицо» (бета) вместо «Овала»: выбери фото с лицом, нажми на лицо на фото — вставка встаёт сама, маска и кожа подогнаны. Поворот и отражение слоя."
+  "versionCode": 15,
+  "versionName": "0.12.1",
+  "url": "https://github.com/AlexNASA89/foto55-releases/releases/download/foto55-v0.12.1/foto55-v0.12.1.apk",
+  "notes": "Лицо вручную: «Овал вручную», «Подогнать цвет под лицо» + ползунки. «Библиотека → Импорт набора лица (ZIP)» — твои ракурсы. «Экспорт → Пакет для обучения»."
 }
