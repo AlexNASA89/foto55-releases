@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "0.13.8",
-  "url": "https://github.com/AlexNASA89/foto55-releases/releases/download/foto55-v0.13.8/foto55-v0.13.8.apk",
-  "notes": "«Лицо по сетке»: лицо натягивается на голову. Свет с фото, мягкость под видео. ★ ракурса по форме лица, лицо само отражается."
+  "versionCode": 28,
+  "versionName": "0.13.9",
+  "url": "https://github.com/AlexNASA89/foto55-releases/releases/download/foto55-v0.13.9/foto55-v0.13.9.apk",
+  "notes": "Убран «свет с фото» — нет тени от кепки на лице. Отражённое лицо тоже по сетке."
 }
