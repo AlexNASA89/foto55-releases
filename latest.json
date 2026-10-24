@@ -1,6 +1,6 @@
 {
-  "versionCode": 41,
-  "versionName": "0.19.0",
-  "url": "https://github.com/AlexNASA89/foto55-releases/releases/download/foto55-v0.19.0/foto55-v0.19.0.apk",
-  "notes": "Проект лица: «Вставить моё лицо из видео» — твоё лицо из твоего видео на каждом кадре, плавно, без деформации, цвет под ролик."
+  "versionCode": 42,
+  "versionName": "0.20.0",
+  "url": "https://github.com/AlexNASA89/foto55-releases/releases/download/foto55-v0.20.0/foto55-v0.20.0.apk",
+  "notes": "Проект лица: «Снять себя по плану» — камера ведёт по позам ролика (призрак, точка, подсказки), потом лицо вставляется само."
 }
