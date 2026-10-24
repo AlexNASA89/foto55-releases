@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "0.17.0",
-  "url": "https://github.com/AlexNASA89/foto55-releases/releases/download/foto55-v0.17.0/foto55-v0.17.0.apk",
-  "notes": "Видео: «Проект лица» — лицо отдельным проектом; «Разметка лица» — контур и 5 точек на каждом кадре, по твоей манере: выровнял кадр 1, остальные идут за ним."
+  "versionCode": 40,
+  "versionName": "0.18.0",
+  "url": "https://github.com/AlexNASA89/foto55-releases/releases/download/foto55-v0.18.0/foto55-v0.18.0.apk",
+  "notes": "Новое меню: главное — видео. Шаги Ролик › Лицо › Разметка › Вставка › Готово и одна большая кнопка; инструменты — в «Доводка»; фото — в «Фото (опыты)»."
 }
