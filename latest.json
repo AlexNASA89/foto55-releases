@@ -1,6 +1,6 @@
 {
-  "versionCode": 43,
-  "versionName": "0.21.0",
-  "url": "https://github.com/AlexNASA89/foto55-releases/releases/download/foto55-v0.21.0/foto55-v0.21.0.apk",
-  "notes": "Проект лица: «Вернуть в ролик» — лицо со всеми правками встаёт в исходный ролик одной кнопкой, без потери качества."
+  "versionCode": 44,
+  "versionName": "0.21.1",
+  "url": "https://github.com/AlexNASA89/foto55-releases/releases/download/foto55-v0.21.1/foto55-v0.21.1.apk",
+  "notes": "Съёмка: призрак по центру и не прыгает, видно «● ЗАПИСЬ», не зависает на сохранении; «Моя съёмка» — вставить из последней записи."
 }
