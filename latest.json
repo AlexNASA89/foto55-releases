@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "0.16.0",
-  "url": "https://github.com/AlexNASA89/foto55-releases/releases/download/foto55-v0.16.0/foto55-v0.16.0.apk",
-  "notes": "Видео: «Вырезать область» — ролик только этой рамки в галерею; «Вшить обратно» — обработанный ролик встаёт в ту же рамку на каждом кадре."
+  "versionCode": 39,
+  "versionName": "0.17.0",
+  "url": "https://github.com/AlexNASA89/foto55-releases/releases/download/foto55-v0.17.0/foto55-v0.17.0.apk",
+  "notes": "Видео: «Проект лица» — лицо отдельным проектом; «Разметка лица» — контур и 5 точек на каждом кадре, по твоей манере: выровнял кадр 1, остальные идут за ним."
 }
