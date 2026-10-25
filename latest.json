@@ -1,6 +1,6 @@
 {
-  "versionCode": 44,
-  "versionName": "0.21.1",
-  "url": "https://github.com/AlexNASA89/foto55-releases/releases/download/foto55-v0.21.1/foto55-v0.21.1.apk",
-  "notes": "Съёмка: призрак по центру и не прыгает, видно «● ЗАПИСЬ», не зависает на сохранении; «Моя съёмка» — вставить из последней записи."
+  "versionCode": 45,
+  "versionName": "0.22.0",
+  "url": "https://github.com/AlexNASA89/foto55-releases/releases/download/foto55-v0.22.0/foto55-v0.22.0.apk",
+  "notes": "Рамка лица ставится сама; после съёмки — сразу готовый ролик; красные кадры там, где дубль подошёл хуже; призрак ярче."
 }
