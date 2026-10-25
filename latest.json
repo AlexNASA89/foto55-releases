@@ -1,6 +1,6 @@
 {
-  "versionCode": 46,
-  "versionName": "0.23.0",
-  "url": "https://github.com/AlexNASA89/foto55-releases/releases/download/foto55-v0.23.0/foto55-v0.23.0.apk",
-  "notes": "Живое лицо: съёмка под играющего призрака, лицо двигается вместе с роликом. Работа с лицом прямо в ролике; «Проект лица (крупно)» — в «⋯»."
+  "versionCode": 47,
+  "versionName": "0.24.0",
+  "url": "https://github.com/AlexNASA89/foto55-releases/releases/download/foto55-v0.24.0/foto55-v0.24.0.apk",
+  "notes": "Призрак при съёмке не прыгает: нос в центре овала. Кнопка «По лицу» в разметке. «Учебные ролики» — из твоего закрытого облака."
 }
