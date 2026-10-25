@@ -1,6 +1,6 @@
 {
-  "versionCode": 45,
-  "versionName": "0.22.0",
-  "url": "https://github.com/AlexNASA89/foto55-releases/releases/download/foto55-v0.22.0/foto55-v0.22.0.apk",
-  "notes": "Рамка лица ставится сама; после съёмки — сразу готовый ролик; красные кадры там, где дубль подошёл хуже; призрак ярче."
+  "versionCode": 46,
+  "versionName": "0.23.0",
+  "url": "https://github.com/AlexNASA89/foto55-releases/releases/download/foto55-v0.23.0/foto55-v0.23.0.apk",
+  "notes": "Живое лицо: съёмка под играющего призрака, лицо двигается вместе с роликом. Работа с лицом прямо в ролике; «Проект лица (крупно)» — в «⋯»."
 }
